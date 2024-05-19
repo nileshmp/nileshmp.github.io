@@ -144,7 +144,7 @@ Finally add the following line to the file `.bashrc` or `.zshrc` depending on yo
 ```
 
 
-#### `.bashrc` ro `.zshrc` files after all the above changes
+#### `.bashrc` or `.zshrc` files after all the above changes
 
 ```bash
 	gvm.init()
